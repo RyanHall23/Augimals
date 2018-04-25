@@ -4,6 +4,7 @@ An augmented reality assistive technology designed to help young people with Aut
 This educational game will help people with Autism recognise emotions and help them with having eye contact with other people.
 
 The game modes:
+
 Game mode 1 - Animal Masks
 A mask will appear over a guardian's face and slowly fade away.
 The young person will get more points the longer they look at the mask, this incentivises the young person to look at
